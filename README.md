@@ -8,7 +8,7 @@ Este projeto é uma simulação do funcionamento de um aplicativo de corridas se
 
 > Clique na imagem para vê-la em maior qualidade.
 
-[![Diagrama UML](diagrama-uml.png.png)](diagrama-uml.png.png)
+[![Diagrama UML](digrama-uml.png.png)](digrama-uml.png.png)
 
 ---
 
