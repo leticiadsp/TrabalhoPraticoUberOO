@@ -1,6 +1,6 @@
-# 🚖 Projeto Uber - Programação Orientada a Objetos
+# 🚖 Projeto Uber - Orientação a Objetos
 
-Este projeto é uma simulação do funcionamento de um aplicativo de corridas semelhante ao Uber, 99 ou Cabify utilizando conceitos essenciais de Programação Orientada a Objetos.
+Este projeto é uma simulação do funcionamento de um aplicativo de corridas semelhante ao Uber, 99 ou Cabify utilizando conceitos essenciais de programação orientada a objetos.
 
 ---
 
